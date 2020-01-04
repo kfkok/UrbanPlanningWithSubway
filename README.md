@@ -2,9 +2,7 @@
 A simple project that generate a simple urban map along with its subway map based on user input
 
 Urban map example
-![UrbanPlanning](UrbanPlanning.PNG?raw=true "UrbanPlanning")
-
-<img src="UrbanPlanning.PNG" height="24" width="48">
+<img src="UrbanPlanning.PNG" width=50%>
 
 Subway map example
-![Subway](Subway.PNG?raw=true "Subway")
+<img src="Subway.PNG" width=50%>
